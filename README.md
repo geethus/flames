@@ -1,2 +1,5 @@
 # flames
-Flames Program with React
+Flames Program using React
+
+#Author
+#Geetha Suresh
